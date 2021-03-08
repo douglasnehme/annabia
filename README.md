@@ -1,2 +1,2 @@
-# bia
-Miscellaneous scripts for helping bia
+# annabia
+Miscellaneous scripts for helping Anna Beatriz Jones Oaquim
