@@ -23,7 +23,7 @@ from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 #### CONFIG PARAMETERS AND GLOBAL VARIABLES ######################################################################################
 ##################################################################################################################################
 # pep-8 conventions suggest upper case for global variables
-ROOTDIR = '/home/douglasnehme/Desktop/bia'
+ROOTDIR = '/home/dnehme/Desktop/bia'
 
 
 METADICT = {
