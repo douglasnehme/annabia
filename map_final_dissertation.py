@@ -190,4 +190,4 @@ ax1.annotate(METADICT['faraday']['name'], (0.26, 0.56), xycoords = 'axes fractio
 
 
 # plt.show()
-plt.savefig(os.path.join(ROOTDIR, u'mapa estações'))
+plt.savefig(os.path.join(ROOTDIR, u'mapa estações dissertação'))
